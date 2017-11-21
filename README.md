@@ -1,2 +1,2 @@
 # nazarovs
-This repository for testing some application
+This repository for testing simple openshift scaling application
